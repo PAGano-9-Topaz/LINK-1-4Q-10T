@@ -1,8 +1,8 @@
 from pyscript import display, document 
 import numpy as np
 import logging
-logging.getLogger('matplotlib').setLevel(logging.ERROR)
 import matplotlib.pyplot as plt
+logging.getLogger('matplotlib').setLevel(logging.ERROR)
 
 JR = 0
 LA = 0
